@@ -12,4 +12,4 @@ Our objectives are described as below:
 
 The files include the codes and the outputs graphs of the project
 
-![Alt text](https://g.gravizo.com/source/<custom_mark>?<url_source_url_encoded>)
+![newyork](https://user-images.githubusercontent.com/53081268/77221642-9dd34300-6b08-11ea-9ca4-a4dfbaa7402b.jpg)
