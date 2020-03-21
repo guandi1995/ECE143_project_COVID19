@@ -12,4 +12,4 @@ Our objectives are described as below:
 
 The files include the codes and the outputs graphs of the project
 
-![link to google] (http://google.com)
+![clink to google] (http://google.com)
