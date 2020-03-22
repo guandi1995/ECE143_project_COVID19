@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[13]:
-
-
 '''
 
 This file make an animation illustrated how the virus grows over time around the world
@@ -70,10 +67,5 @@ def main():
     
 if __name__ == '__main__':
     main()
-
-
-# In[ ]:
-
-
-
-
+    
+    
