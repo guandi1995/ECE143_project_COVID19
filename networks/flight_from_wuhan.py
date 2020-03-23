@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
 
 
 '''
@@ -112,10 +108,6 @@ py.offline.plot(fig,filename='plots/domestic_flight.html')
 #plot international flight
 fig=flight_flow(empty,flight_destination_inter)
 py.offline.plot(fig,filename='plots/international_flight.html')
-
-
-# In[ ]:
-
 
 
 
