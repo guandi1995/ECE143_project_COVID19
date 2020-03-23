@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 '''
 
 This file plots the daily growth around China and outside China
@@ -112,10 +106,3 @@ def main():
     
 if __name__ == '__main__':
     main()    
-
-
-# In[ ]:
-
-
-
-
