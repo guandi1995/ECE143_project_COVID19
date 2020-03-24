@@ -86,7 +86,7 @@ def daily_growth_series_combine(confirmed_china,confirmed_world):
     
     fig.show()
     
-    py.offline.plot(fig,filename='growth_around_world.html')
+    py.offline.plot(fig,filename='plots/growth_around_world.html')
     
     
 def main():
