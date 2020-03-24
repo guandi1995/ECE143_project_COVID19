@@ -13,3 +13,21 @@ Our objectives are described as below:
 The files include the codes and the outputs graphs of the project
 
 
+Team members:
+- Di Guan
+- Song Wang
+- Vinamr Madan
+- Yashdeep Singh
+
+Motivations:
+- Coronavirus outbreak, originated from Wuhan, Hubei Province, China in early December
+- Difficult to detect 
+- No vaccine yet
+
+Objectives:
+- Analyze how the virus spread in China and outside China
+- Impact of population density and transportation networks on the outbreak
+- who is impacted the most?
+
+Topic 1:
+
