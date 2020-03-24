@@ -29,5 +29,7 @@ Objectives:
 - Impact of population density and transportation networks on the outbreak
 - who is impacted the most?
 
-Topic 1:
+
+Topic 1: growth over time in China and outside China
+- 
 
