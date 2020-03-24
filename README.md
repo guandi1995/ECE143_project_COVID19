@@ -45,6 +45,10 @@ Topic 1: Growth over time in China and outside China
 
 ![daily_increment_guangdong](https://user-images.githubusercontent.com/53081268/77393876-3f51d300-6d5b-11ea-9ca8-81ba27a1f05d.png)
 
+![daily_increment_beijing](https://user-images.githubusercontent.com/53081268/77393972-7b853380-6d5b-11ea-8fb9-a2d79929738b.png)
+
+![daily_increment_shanghai](https://user-images.githubusercontent.com/53081268/77393981-7f18ba80-6d5b-11ea-9b60-7fed6b0f6617.png)
+
 Topic 2: Impact of population density and networks impact on outbreak
 - 
 - Confirmed cases recorded on 3/21/2020
