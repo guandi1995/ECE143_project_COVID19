@@ -31,7 +31,7 @@ Topic 1: Growth over time in China and outside China
 - 
 - Growth in China
 
-![growth_in_china](https://user-images.githubusercontent.com/53081268/77389072-41ae3000-6d4f-11ea-91af-fbec867398d3.png)
+![growth_in_china](https://user-images.githubusercontent.com/53081268/77389152-85a13500-6d4f-11ea-8ca3-583e9434ff76.png)
 
 - Growth outside China
 
