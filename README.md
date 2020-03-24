@@ -43,6 +43,9 @@ Topic 1: Growth over time in China and outside China
 
 ![daily_increment_hubei](https://user-images.githubusercontent.com/53081268/77393680-ce122000-6d5a-11ea-8cb9-be01790712cf.png)
 
+![daily_increment_hubei](https://user-images.githubusercontent.com/53081268/77393799-04e83600-6d5b-11ea-900a-82ef25116567.png)
+
+![daily_increment_guangdong](https://user-images.githubusercontent.com/53081268/77393776-f863dd80-6d5a-11ea-931e-55419e0c0ed2.png)
 
 Topic 2: Impact of population density and networks impact on outbreak
 - 
