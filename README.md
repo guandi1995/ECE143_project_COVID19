@@ -45,7 +45,7 @@ Topic 2: Impact of population density and networks impact on outbreak
 
 - Population density map of China
 
-image 2
+![china_population_map](https://user-images.githubusercontent.com/53081268/77389994-e03b9080-6d51-11ea-8e93-27dcd8d2c27a.png)
 
 - Population density versus average daily increment for each province
 
