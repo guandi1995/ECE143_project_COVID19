@@ -76,13 +76,15 @@ Topic 2: Impact of population density and networks impact on outbreak
 - 
 - Confirmed cases recorded on 3/21/2020
 
+The graph below records the amount of confirmed cases for each province till March 21, 2020 where the area of circles represents the confirmed cases proportionally. It makes sense for us that the provinces next to Hubei Province has been impacted badly and have relatively high amount of confirmed cases than other provinces do, but Guangdong Province, which is quite far from Hubei, is the most seriously infected area except Hubei. Our first thought is probably because of the population density as Guangdong Province has the top 1 population density around the nation with over 100 million people.
+
 ![china_confirmed_case_map](https://user-images.githubusercontent.com/53081268/77390796-3f020980-6d54-11ea-8700-f0259c78b30d.png)
 
-- Population density map of China
+- Population density map  and rank of China
+
+Thus, we made a map that indicates the population distribution in China and the population rank for each province
 
 ![china_population_map](https://user-images.githubusercontent.com/53081268/77390612-c3a05800-6d53-11ea-952a-91bef498e717.png)
-
-- Population rank in China
 
 ![china_population_rank](https://user-images.githubusercontent.com/53081268/77391065-031b7400-6d55-11ea-8e4c-910579617230.png)
 
