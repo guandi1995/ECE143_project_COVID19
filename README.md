@@ -45,7 +45,7 @@ Topic 1: Growth over time in China and outside China
 
 ![daily_increment_guangdong](https://user-images.githubusercontent.com/53081268/77393876-3f51d300-6d5b-11ea-9ca8-81ba27a1f05d.png)
 
-![daily_increment_henan](https://user-images.githubusercontent.com/53081268/77394376-6d83e280-6d5c-11ea-9c24-e1bd4db2540f.png)
+![daily_increment_henan](https://user-images.githubusercontent.com/53081268/77394485-be93d680-6d5c-11ea-8449-ccd66646c62a.png)
 
 ![daily_increment_beijing](https://user-images.githubusercontent.com/53081268/77394143-d9198000-6d5b-11ea-915a-cc30511f7d83.png)
 
