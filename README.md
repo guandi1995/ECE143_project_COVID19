@@ -29,13 +29,9 @@ Objectives:
 
 Topic 1: Growth over time in China and outside China
 - 
-- Growth in China
+- Growth in China and outside China
 
-![growth_in_china](https://user-images.githubusercontent.com/53081268/77389152-85a13500-6d4f-11ea-8ca3-583e9434ff76.png)
-
-- Growth outside China
-
-image2
+![growth_around_world](https://user-images.githubusercontent.com/53081268/77389328-209a0f00-6d50-11ea-8dd1-c9046b0066d0.png)
 
 - Growth animation around the world
 
