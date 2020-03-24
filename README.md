@@ -39,6 +39,8 @@ Topic 1: Growth over time in China and outside China
 
 - Daily Increment for all provinces
 
+Based on the growth over time around the world, we want to further to emphasize how it grows in China specificly. 
+
 ![daily_increment_combine](https://user-images.githubusercontent.com/53081268/77393632-ab800700-6d5a-11ea-884e-990dfe194bca.png)
 
 ![avg_increment_rank](https://user-images.githubusercontent.com/53081268/77468719-3698e580-6dcb-11ea-89db-b3f4946afd86.png)
