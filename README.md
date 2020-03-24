@@ -39,7 +39,7 @@ Topic 1: Growth over time in China and outside China
 
 - Daily Increment for all provinces
 
-Based on the growth over time around the world, we want to further to emphasize how it grows in China specificly. 
+Based on the growth over time around the world, we want to further analyze how it grows in China specificly. The graph below demonstrates the daily increment for each province except Hubei Province and then calulates the average daily increment for each province so that we can rank the provinces and find out which provinces are the most serious infected areas around China except the origin of the virus, Hubei Province
 
 ![daily_increment_combine](https://user-images.githubusercontent.com/53081268/77393632-ab800700-6d5a-11ea-884e-990dfe194bca.png)
 
