@@ -51,13 +51,17 @@ From the graph above obtained, the top 3 most serious infected areas except Hube
 
 To check the trend of growth around China, a dropdown box is created so that the daily increment for each province can be checked, which helps us deeply analyze how it grows in each province over time. 
 
-Notice, the general trend of growth shows that the virsu is under control around China because many provinces have almost zero daily increment those days after it reach the peak. 
+Notice, the general trend of growth shows that the virus is under control around China because many provinces have almost zero daily increment those days after it reach the peak. 
+
+Basically, the trend of the growth can be classified into two types. One is that the daily increment hits the peak, starts to converge to zero and then remains the status of almost zero increment those days. The other one is that it acts the same behavior as first one except that it starts to bounce back after converging to zero increment. The reason why this happens is partly because the provinces or areas of the second type is the major import provinces or areas that they are receiving enormous amounts of passengers outside of China at international airports and those passengers cause the increment of imported cases occured in those provinces.
+
+For example, 
 
 ![daily_increment_hubei](https://user-images.githubusercontent.com/53081268/77393680-ce122000-6d5a-11ea-8cb9-be01790712cf.png)
 
-![daily_increment_guangdong](https://user-images.githubusercontent.com/53081268/77393876-3f51d300-6d5b-11ea-9ca8-81ba27a1f05d.png)
-
 ![daily_increment_henan](https://user-images.githubusercontent.com/53081268/77394485-be93d680-6d5c-11ea-8449-ccd66646c62a.png)
+
+![daily_increment_guangdong](https://user-images.githubusercontent.com/53081268/77393876-3f51d300-6d5b-11ea-9ca8-81ba27a1f05d.png)
 
 ![daily_increment_beijing](https://user-images.githubusercontent.com/53081268/77394143-d9198000-6d5b-11ea-915a-cc30511f7d83.png)
 
