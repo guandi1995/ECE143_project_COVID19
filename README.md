@@ -45,7 +45,13 @@ Based on the growth over time around the world, we want to further analyze how i
 
 ![avg_increment_rank](https://user-images.githubusercontent.com/53081268/77468719-3698e580-6dcb-11ea-89db-b3f4946afd86.png)
 
-From the graph above obtained, the top 3 most serious infected areas except Hubei Province are Guangdong, Henan, Hunan Provinces
+From the graph above obtained, the top 3 most serious infected areas except Hubei Province are Guangdong, Henan, Zhejiang Provinces. 
+
+- Check the trend of growth
+
+To check the trend of growth around China, a dropdown box is created so that the daily increment for each province can be checked, which helps us deeply analyze how it grows in each province over time. 
+
+Notice, the general trend of growth shows that the virsu is under control around China because many provinces have almost zero daily increment those days after it reach the peak. 
 
 ![daily_increment_hubei](https://user-images.githubusercontent.com/53081268/77393680-ce122000-6d5a-11ea-8cb9-be01790712cf.png)
 
