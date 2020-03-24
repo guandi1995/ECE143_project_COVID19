@@ -37,6 +37,8 @@ Topic 1: Growth over time in China and outside China
 
 ![worldwide_animation](https://user-images.githubusercontent.com/53081268/77389479-900ffe80-6d50-11ea-8a03-454e45116949.png)
 
+- 
+
 Topic 2: Impact of population density and networks impact on outbreak
 - 
 - Confirmed cases recorded on 3/21/2020
@@ -46,6 +48,10 @@ Topic 2: Impact of population density and networks impact on outbreak
 - Population density map of China
 
 ![china_population_map](https://user-images.githubusercontent.com/53081268/77390612-c3a05800-6d53-11ea-952a-91bef498e717.png)
+
+- Population rank in China
+
+![china_population_rank](https://user-images.githubusercontent.com/53081268/77391065-031b7400-6d55-11ea-8e4c-910579617230.png)
 
 - Population density versus average daily increment for each province
 
