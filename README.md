@@ -41,7 +41,7 @@ Topic 2: Impact of population density and networks impact on outbreak
 - 
 - Confirmed cases recorded on 3/21/2020
 
-![china_population_map](https://user-images.githubusercontent.com/53081268/77389994-e03b9080-6d51-11ea-8e93-27dcd8d2c27a.png)
+![china_confirmed_case_map](https://user-images.githubusercontent.com/53081268/77390796-3f020980-6d54-11ea-8700-f0259c78b30d.png)
 
 - Population density map of China
 
