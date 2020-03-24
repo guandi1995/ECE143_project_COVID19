@@ -55,19 +55,22 @@ Notice, the general trend of growth shows that the virus is under control around
 
 Basically, the trend of the growth can be classified into two types. One is that the daily increment hits the peak, starts to converge to zero and then remains the status of almost zero increment those days. The other one is that it acts the same behavior as first one except that it starts to bounce back after converging to zero increment. The reason why this happens is partly because the provinces or areas of the second type is the major import provinces or areas that they are receiving enormous amounts of passengers outside of China at international airports and those passengers cause the increment of imported cases occured in those provinces.
 
-For example, we declare two representative provinces classified as type-one growth, which are Hubei Province, the origin of the virus, and Henan Province, rank #2 in terms of average daily increment across China. Those two provinces indicate the growth that it starts to converge to zero increment after hitting the peaks till March 21, 2020, without significant bouce back. 
+For example, we declare three representative provinces classified as type-one growth, which are Hubei Province, the origin of the virus, and Henan and Anhui provinces, with rank #3 and #6 respectively in terms of average daily increment across China. Those three provinces indicate the growth that it starts to converge to zero increment after hitting the peaks till March 21, 2020, without significant bouce back. 
 
 ![daily_increment_hubei](https://user-images.githubusercontent.com/53081268/77393680-ce122000-6d5a-11ea-8cb9-be01790712cf.png)
 
 ![daily_increment_henan](https://user-images.githubusercontent.com/53081268/77394485-be93d680-6d5c-11ea-8449-ccd66646c62a.png)
 
-Then, three representative provinces are classified as type-two growth, which are Guangdong Province, rank #1 in terms of average daily increment across the nation, city of Beijing and city of Shanghai. Those three provinces indicate the growth that it starts to converge to zero increment after hitting the peaks for a certain peroid and then it has signs that the daily increment bounces back. This is partly because Guangdong, Beijing and Shanghai are the major areas that absorb enormous amount of international passengers flying from other regions of world.
+![daily_increment_anhui](https://user-images.githubusercontent.com/53081268/77484749-8df97e80-6de8-11ea-9ab5-1f3258b1e868.png)
+
+Then, three representative provinces are classified as type-two growth, which are Guangdong Province, rank #2 in terms of average daily increment across the nation, city of Beijing and Shanghai. Those three areas indicate that the growth starts to converge to zero increment after hitting the peaks for a certain peroid, and then it has signs that the daily increment bounces back. This is partly because Guangdong, Beijing and Shanghai are the major areas that absorb enormous amount of international passengers flying from other regions of world. 
 
 ![daily_increment_guangdong](https://user-images.githubusercontent.com/53081268/77393876-3f51d300-6d5b-11ea-9ca8-81ba27a1f05d.png)
 
 ![daily_increment_beijing](https://user-images.githubusercontent.com/53081268/77394143-d9198000-6d5b-11ea-915a-cc30511f7d83.png)
 
 ![daily_increment_shanghai](https://user-images.githubusercontent.com/53081268/77394152-db7bda00-6d5b-11ea-9c74-0a473ff08438.png)
+
 
 Topic 2: Impact of population density and networks impact on outbreak
 - 
