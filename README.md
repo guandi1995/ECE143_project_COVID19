@@ -65,12 +65,14 @@ image 4
 
 - Domestic Flight departure from Wuhan 
 
-image 6
+![domestic_flight](https://user-images.githubusercontent.com/53081268/77390877-7e305a80-6d54-11ea-9747-3a2890fee4c7.png)
 
 - Flights impacted on the average daily increment
 
-image 7
+![population_vs_avg_increment_flights](https://user-images.githubusercontent.com/53081268/77390887-8ee0d080-6d54-11ea-8f04-6e6ef5c60de8.png)
+
 
 - International Flight departure from Wuhan
 
-image 8
+![international_flight](https://user-images.githubusercontent.com/53081268/77390902-999b6580-6d54-11ea-9c5f-4722f16ac904.png)
+
