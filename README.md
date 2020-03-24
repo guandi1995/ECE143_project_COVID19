@@ -35,6 +35,8 @@ Topic 1: Growth over time in China and outside China
 
 - Growth animation around the world
 
+https://github.com/guandi1995/ECE143_project_COVID19/blob/master/growth/plots/worldwide_growth_animation.html
+
 ![worldwide_animation](https://user-images.githubusercontent.com/53081268/77389479-900ffe80-6d50-11ea-8a03-454e45116949.png)
 
 Topic 2: Impact of population density and networks impact on outbreak
