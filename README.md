@@ -41,15 +41,15 @@ Topic 2: Impact of population density and networks impact on outbreak
 - 
 - Confirmed cases recorded on 3/21/2020
 
-![china_confirmed_case_map](https://user-images.githubusercontent.com/53081268/77389873-8fc43300-6d51-11ea-8fc8-be5408f95c50.png)
+![china_population_map](https://user-images.githubusercontent.com/53081268/77389994-e03b9080-6d51-11ea-8e93-27dcd8d2c27a.png)
 
 - Population density map of China
 
-![china_population_map](https://user-images.githubusercontent.com/53081268/77389994-e03b9080-6d51-11ea-8e93-27dcd8d2c27a.png)
+![china_population_map](https://user-images.githubusercontent.com/53081268/77390612-c3a05800-6d53-11ea-952a-91bef498e717.png)
 
 - Population density versus average daily increment for each province
 
-image 3
+![population_vs_avg_increment](https://user-images.githubusercontent.com/53081268/77390636-d155dd80-6d53-11ea-8bc9-e22d6aa97e3d.png)
 
 - Major transportations in China
 
@@ -57,9 +57,11 @@ image 4
 
 - Railways departure from Wuhan before lockdown
 
-image 5
+![railway_networks](https://user-images.githubusercontent.com/53081268/77390703-fba79b00-6d53-11ea-9e14-77d5274f556b.png)
 
 - Railways impacted on the average daily increment
+
+![population_vs_avg_increment_railway](https://user-images.githubusercontent.com/53081268/77390669-e5014400-6d53-11ea-9b7d-aac1c90bcfe6.png)
 
 - Domestic Flight departure from Wuhan 
 
