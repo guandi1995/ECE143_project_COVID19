@@ -90,15 +90,19 @@ Thus, we made a map that indicates the population distribution in China and the 
 
 - Population density versus average daily increment for each province
 
-Then, we made a plot that demonstrates the relationship between population size and the average daily increment we just calculate for each province. It seems like they do have a positive linear relationship that small population size has low average daily increment and large population size has high average daily increment. However, if you classify all the provinces into 3 clusters conditioned on the population size with 0-40, 40-80 and over 80, then you can observe some outlier provinces which are circled. 
+Then, we made a plot that demonstrates the relationship between population size and the average daily increment we just calculate for each province. It seems like they do have a positive linear relationship that small population size has low average daily increment and large population size has high average daily increment. However, if you classify all the provinces into 3 clusters conditioned on the population size with 0-40, 40-80 and over 80, then you can observe some outlier provinces which are circled. Those outliers indicate that population size is not the cause that impact on those provinces, so what makes this happen? Our next thought is probably because of the transportation networks that connect those outlier provinces with Hubei Province.
 
 ![population_vs_avg_increment](https://user-images.githubusercontent.com/53081268/77390636-d155dd80-6d53-11ea-8bc9-e22d6aa97e3d.png)
 
 - Major transportations in China
 
+Before moving on, it is necessary to address the background of major transportations in China. The major transportation tools that commute cities to cities in China are highways, railways and flights, as shown below. Since the data of highways that records the connections of Hubei to other provinces is hard to gather online, we only gather the data of railways and flights departure from Wuhan. The data was recorded before the city was lockdown on January 23, 2020.
+
 image 4
 
 - Railways departure from Wuhan before lockdown
+
+The data of railways departure from Wuhan was gathered online and it recorded how many railways departure from Wuhan daily and the destination. The opacity represents the proportion of the railways departure from Wuhan to the specific destination over the max values. 
 
 ![railway_networks](https://user-images.githubusercontent.com/53081268/77390703-fba79b00-6d53-11ea-9e14-77d5274f556b.png)
 
