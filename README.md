@@ -90,7 +90,7 @@ Thus, we made a map that indicates the population distribution in China and the 
 
 - Population density versus average daily increment for each province
 
-Then, we made a plot that demonstrates the relationship between population size and the average daily increment we just calculate for each province. It seems like they do have a positive linear relationship that small population size has low average daily increment and large population size has high average daily increment. However, if you classify all the provinces into 3 clusters conditioned on the population size with 0-40, 40-80 and over 80, then you can observe some outlier provinces which are circled. Those outliers indicate that population size is not the cause that impact on those provinces, so what makes this happen? Our next thought is probably because of the transportation networks that connect those outlier provinces with Hubei Province.
+Then, we made a plot that demonstrates the relationship between population size and the average daily increment we just calculate for each province. It seems like they do have a positive linear relationship of small population size with low average daily increment and large population size with high average daily increment. However, if you classify all provinces into 3 clusters conditioned on the population size with 0-40, 40-80 and over 80, then you can observe some outlier provinces which are circled. Those outliers indicate that population size is not the major significant cause, so what makes this happen? Our next thought is probably because of the transportation networks that connect those outlier provinces with Hubei Province.
 
 ![population_vs_avg_increment](https://user-images.githubusercontent.com/53081268/77390636-d155dd80-6d53-11ea-8bc9-e22d6aa97e3d.png)
 
@@ -102,11 +102,13 @@ image 4
 
 - Railways departure from Wuhan before lockdown
 
-The data of railways departure from Wuhan was gathered online and it recorded how many railways departure from Wuhan daily and the destination. The opacity represents the proportion of the railways departure from Wuhan to the specific destination over the max values. 
+The data of railways departure from Wuhan was gathered from https://www.travelchinaguide.com/china-trains/wuhan-schedule.htm and it recorded how many railways departure from Wuhan daily and the its destination. The opacity represents the proportion of the railways departure from Wuhan to the specific destination over the max values. 
 
 ![railway_networks](https://user-images.githubusercontent.com/53081268/77390703-fba79b00-6d53-11ea-9e14-77d5274f556b.png)
 
 - Railways impacted on the average daily increment
+
+Let's take the top 3 cities that have the most connections with Wuhan as our examples here. They are city of Changsha, Zhengzhou and Guangzhou, which are the major cities of Hunan, Henan and Guangdong Province. 
 
 ![population_vs_avg_increment_railway](https://user-images.githubusercontent.com/53081268/77390669-e5014400-6d53-11ea-9b7d-aac1c90bcfe6.png)
 
