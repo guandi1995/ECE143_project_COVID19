@@ -90,7 +90,7 @@ Thus, we made a map that indicates the population distribution in China and the 
 
 - Population density versus average daily increment for each province
 
-Then, we made a plot that demonstrates the relationship between population size and the average daily increment we just calculate for each province. It seems like they do have a positive linear relationship of small population size with low average daily increment and large population size with high average daily increment. However, if you classify all provinces into 3 clusters conditioned on the population size with 0-40, 40-80 and over 80, then you can observe some outlier provinces which are circled. Those outliers indicate that population size is not the major significant cause, so what makes this happen? Our next thought is probably because of the transportation networks that connect those outlier provinces with Hubei Province.
+Then, we made a plot that demonstrates the relationship between population size and the average daily increment we just calculate for each province. It seems like they do have a positive linear relationship of small population size with low average daily increment and large population size with high average daily increment. However, if you classify all provinces into 3 clusters conditioned on the population size with 0-40, 40-80 and over 80, then you can observe some outlier provinces which are circled. Those outliers indicate that population size is not the major cause for those provinces, so what makes this happen? Our next thought is probably because of the transportation networks that connect those outlier provinces with Hubei Province.
 
 ![population_vs_avg_increment](https://user-images.githubusercontent.com/53081268/77390636-d155dd80-6d53-11ea-8bc9-e22d6aa97e3d.png)
 
@@ -108,24 +108,31 @@ The data of railways departure from Wuhan was gathered from https://www.travelch
 
 - Railways impacted on the average daily increment
 
-Let's take the top 3 cities that have the most connections with Wuhan as our examples here. They are city of Changsha, Zhengzhou and Guangzhou, which are the major cities of Hunan, Henan and Guangdong Province. 
+Let's take the top 3 cities that have the most connections with Wuhan in terms of railway transportation as our examples here. They are city of Changsha, Zhengzhou and Guangzhou, which are the major cities of Hunan, Henan and Guangdong Province. Consequently, it makes those three provinces perform a relatively higher average daily increment compared to the others with almost the same population size, as shown below. 
 
 ![population_vs_avg_increment_railway](https://user-images.githubusercontent.com/53081268/77390669-e5014400-6d53-11ea-9b7d-aac1c90bcfe6.png)
 
 - Domestic Flight departure from Wuhan 
 
+Aside from the data of railways, we collect the data of domestic flights departure from Wuhan in the peroid from January 1, 2020 to January 23, 2020. It records how many passengers took the flight from Wuhan to different destinations in China in this peroid. The opacity represents the proportion of the passengers fly from Wuhan to specific destinations over the max values.
+
 ![domestic_flight](https://user-images.githubusercontent.com/53081268/77390877-7e305a80-6d54-11ea-9747-3a2890fee4c7.png)
 
 - Flights impacted on the average daily increment
+
+For example, the top 3 cities that have the most connections with Wuhan in terms of air plane transportation are Guangzhou, Beijing and Shanghai. As a result, it makes those three areas perform a relatively higher average daily increment compared to the others with almost the same population size, as shwon below
 
 ![population_vs_avg_increment_flights](https://user-images.githubusercontent.com/53081268/77390887-8ee0d080-6d54-11ea-8f04-6e6ef5c60de8.png)
 
 
 - International Flight departure from Wuhan
 
+Addition to this, we collect the data of international flights departure from Wuhan.
+
 ![international_flight](https://user-images.githubusercontent.com/53081268/77390902-999b6580-6d54-11ea-9c5f-4722f16ac904.png)
 
 
 Topic 3: Demographic analysis
 -
+The demographic analysis will be coming up soon...
 
